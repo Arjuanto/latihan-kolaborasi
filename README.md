@@ -1,4 +1,4 @@
 # latihan-kolaborasi
-commit 1
-commit 2
-commit 3
+latihan kolaborasi di github dengan dicoding<br>
+latihan review code
+
